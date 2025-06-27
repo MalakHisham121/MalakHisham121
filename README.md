@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AWS, AI, ML,.Net Core**
 
-- 👯 I’m looking to collaborate on **Full stack projects and integrate them with DevOps tools and AI models**
+- 👯 I’m looking to collaborate on **Full stack projects and integrate them to DevOps tools and AI models**
 
 - 📫 How to reach me **malak.hesham10011@gmail.com**
 
