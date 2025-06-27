@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malak Hisham</h1>
+<h1 align="center">Hello, I'm Malak Hisham</h1>
 <h3 align="center">A passionate software engineer</h3>
 
 - 🌱 I’m currently learning **AWS, AI, ML,.Net Core**
